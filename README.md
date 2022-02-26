@@ -6,10 +6,15 @@ Ideas
      join each point in each frame with the "corresponding" point in the next frame with some interpolated function, this will eventually lead to a (hopefully).          smooth surface
       - difficulies
         - locating corresponding pairs of points
-     
+
+Plan
+- learn PyTorch
+- review multivar
+- 
+
+
 Dear Dave,
  
-This gift is an expression of my appreciation for the help you have provided me, both knowingly and unkowingly. You will remember the afternoon we spent together in the Fall of 2021 in front of the firepit in your backyard where you commented on the possibility of using fire to construct a random number generator. This program does this and also includes a neural network adversary whose aim it is to find patterns in the motion of the fire and break the RNG.
+This toy is an expression of my appreciation for the help you have provided me, both knowingly and unkowingly. You will remember the afternoon we spent together in the Fall of 2021 in front of the firepit in your backyard where you commented on the possibility of using fire to construct a random number generator. This program does this and also includes a neural network adversary whose aim it is to find patterns in the motion of the fire and break the RNG.
 
-Regards,
 Matthias
