@@ -10,7 +10,6 @@ Ideas
 Plan
 - learn PyTorch
 - review multivar
-- 
 
 
 Dear Dave,
